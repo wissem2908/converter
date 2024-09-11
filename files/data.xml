@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<states>
+    <state id="AL">     
+    <name>Alabama</name>
+    </state>
+    <state id="AK">
+        <name>Alaska</name>
+    </state>
+</states>
